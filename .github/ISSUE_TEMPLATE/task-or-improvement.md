@@ -15,13 +15,13 @@ assignees: ''
 
 ## Details
 
-- **Branch Name**: 
+- **Branch Name**:
   *(Suggested format: context/issueNumber-short-description. Example: assignments/21-math-assignment-2)*
 
 - **Estimated Time for Completion**:
   *(How long do you think this task will take? If it's a group task, mention the expected time for each member.)*
 
-- **Stage**: 
+- **Stage**:
   *(Is this task in the planning phase, in progress, or completed?)*
 
 - **Related Course (if applicable)**:
@@ -33,4 +33,4 @@ assignees: ''
 
 ## For Community Improvements
 
-*If this issue is a suggestion to improve the THD-AI-2023 community, please tag @HlexNC for visibility and further discussion.*
+*If this issue is a suggestion to improve the THD-AI community, please tag @arudaev for visibility and further discussion.*

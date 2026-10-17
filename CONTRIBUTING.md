@@ -9,7 +9,7 @@ We are delighted that you're interested in contributing! This document provides 
 - `Reading Materials/`: Contains recommended reading materials.
 - `Code Samples/`: Folder for any sample code discussed in class.
 
-Examples: 
+Examples:
 
 - `lecture-notes/hlexnc-notes-week-01` (no issue)
 - `assignments/31-hlexnc-demo-app` (`#31` is the number of the issue, `demo-app` is the title of the issue)
