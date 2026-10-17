@@ -12,7 +12,7 @@ Collaboration is the heart of software development. At THD/DIT, as you immerse y
 1. **What are branches?**
    - Think of branches as individual workspaces within a repository. It allows multiple people to work on different parts of a project without affecting the main (or "master") version.
 
-2. **How and why to create a branch:** 
+2. **How and why to create a branch:**
    - When you want to add a feature or fix a bug, you create a branch, which is a copy of the main code. This keeps the main codebase stable while you make your changes.
 
 3. **Merging branches:** 🔄
@@ -23,7 +23,7 @@ Collaboration is the heart of software development. At THD/DIT, as you immerse y
 1. **What's a pull request?**
    - It's a proposal to merge your branch into the main branch. It allows others to review your changes before they become official.
 
-2. **How to create one:** 
+2. **How to create one:**
    - After pushing your branch to GitHub, you'll see an option to create a pull request. Fill in the details, and you're set!
 
 3. **Reviewing & merging pull requests:** ✅
@@ -34,7 +34,7 @@ Collaboration is the heart of software development. At THD/DIT, as you immerse y
 1. **What are GitHub Projects?**
    - They are like Trello boards inside GitHub. They help teams organize tasks, to-dos, and timelines.
 
-2. **How and why to use GitHub Projects:** 
+2. **How and why to use GitHub Projects:**
    - Create columns for tasks like "To Do", "In Progress", and "Done". You can drag and drop tasks as they progress. It's great for keeping everyone in the loop and managing project progress.
 
 3. **Collaborate on Projects as a group:** 🤝

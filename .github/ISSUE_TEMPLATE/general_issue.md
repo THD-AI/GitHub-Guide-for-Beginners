@@ -13,7 +13,7 @@ assignees: ''
 
 ## Additional Context
 
-*Is there any other context or background information you'd like to provide? This could be about a course, an assignment, or any other aspect of the THD-AI-2023 community.*
+*Is there any other context or background information you'd like to provide? This could be about a course, an assignment, or any other aspect of the THD-AI community.*
 
 ## Screenshots
 

@@ -1,6 +1,6 @@
 ---
 name: Community Improvement
-about: Suggest improvements to the THD-AI-2023 community.
+about: Suggest improvements to the THD-AI community.
 title: '[IMPROVEMENT]'
 labels: 'enhancement'
 assignees: 'HlexNC'  # You mentioned pinging #HlexNC, so I'm assuming this is a GitHub username to assign for community improvements.
@@ -9,7 +9,7 @@ assignees: 'HlexNC'  # You mentioned pinging #HlexNC, so I'm assuming this is a 
 
 ## Improvement Description
 
-*Please describe the improvement you're suggesting for the THD-AI-2023 community. Be as specific as possible.*
+*Please describe the improvement you're suggesting for the THD-AI community. Be as specific as possible.*
 
 ## Why Is This Important?
 

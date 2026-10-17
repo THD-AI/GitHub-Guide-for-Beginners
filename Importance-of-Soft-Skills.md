@@ -6,7 +6,7 @@ Hello future Artificial Intelligence Engineers of THD/DIT! Beyond the coding ass
 
 - **What are soft skills? 🤔**
   - Soft skills encompass the non-technical abilities you have that help you work effectively and harmoniously with others. These can range from how you communicate or work in a team to how you solve problems or manage your time.
-  
+
 - **Why are they important? 🌟**
   - While your technical skills might get your foot in the door, soft skills can open up more opportunities and pave the way for a fulfilling career. They help ensure you're not just a great coder, but also a great colleague, team member, and problem-solver.
 
@@ -14,9 +14,9 @@ Hello future Artificial Intelligence Engineers of THD/DIT! Beyond the coding ass
 
 1. **The significance of effective communication in software development:**
    - Ever heard of the saying, "It's not what you say, but how you say it"? This holds especially true in software development. Clear communication can prevent misunderstandings, reduce errors, and ensure that everyone's on the same page.
-   
+
 2. **Tips for clear and concise communication:**
-   - 📝 **Be Clear:** Avoid jargon unless you're sure the other person knows it. 
+   - 📝 **Be Clear:** Avoid jargon unless you're sure the other person knows it.
    - 🎯 **Be Direct:** Address the main point without beating around the bush.
    - 🔄 **Seek Feedback:** Ask if your point came across and adjust your approach if needed.
    - 📞 **Choose the Right Medium:** Sometimes, a quick call can resolve what dozens of emails could not.
@@ -25,7 +25,7 @@ Hello future Artificial Intelligence Engineers of THD/DIT! Beyond the coding ass
 
 1. **Collaborating effectively with peers:**
    - Software development is often a team sport. Recognizing the strengths of your peers, delegating tasks effectively, and working towards a common goal are key components of successful collaboration.
-   
+
 2. **Handling feedback and criticism constructively:**
    - 🧐 **Listen Actively:** Understand the feedback before reacting.
    - 😊 **Stay Open-minded:** Feedback is a tool for growth. Don't take it personally.
